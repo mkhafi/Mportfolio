@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mportfolio.git/static/css/main.6f8d1d95.chunk.css",
+    "main.js": "/Mportfolio.git/static/js/main.c68733cf.chunk.js",
+    "main.js.map": "/Mportfolio.git/static/js/main.c68733cf.chunk.js.map",
+    "runtime-main.js": "/Mportfolio.git/static/js/runtime-main.8139b23f.js",
+    "runtime-main.js.map": "/Mportfolio.git/static/js/runtime-main.8139b23f.js.map",
+    "static/js/2.d5f2570e.chunk.js": "/Mportfolio.git/static/js/2.d5f2570e.chunk.js",
+    "static/js/2.d5f2570e.chunk.js.map": "/Mportfolio.git/static/js/2.d5f2570e.chunk.js.map",
+    "index.html": "/Mportfolio.git/index.html",
+    "static/css/main.6f8d1d95.chunk.css.map": "/Mportfolio.git/static/css/main.6f8d1d95.chunk.css.map",
+    "static/js/2.d5f2570e.chunk.js.LICENSE.txt": "/Mportfolio.git/static/js/2.d5f2570e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8139b23f.js",
+    "static/js/2.d5f2570e.chunk.js",
+    "static/css/main.6f8d1d95.chunk.css",
+    "static/js/main.c68733cf.chunk.js"
+  ]
+}
